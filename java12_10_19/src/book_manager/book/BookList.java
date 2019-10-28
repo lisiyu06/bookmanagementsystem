@@ -23,6 +23,12 @@ public class BookList {
                 100,
                 "古典名著",
                 false);
+        books[2] = new Book("西游记",
+                "003",
+                "吴承恩",
+                100,
+                "古典名著",
+                false);
         size = 3;
     }
 
